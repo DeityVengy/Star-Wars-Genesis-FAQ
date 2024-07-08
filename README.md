@@ -25,3 +25,8 @@
    - enable_hotkeys<br />
    
    Manually download [Extended Jetpack (Less Fuel Drain)](https://www.nexusmods.com/starfield/mods/3800?tab=files) and drag the files in the archive into steamapps/common/Starfield
+## Starfield is stuck minimized
+1. Open your Nvidia Controll Panel on the Desktop, go to 3d settings and then to Program Settings.
+2. Search for Starfield in the first tab, if its not there, add it.
+3. If Starfield is selected go to tab 2 and search for Vsync and deactivate it.
+4. Try to start the game again.
