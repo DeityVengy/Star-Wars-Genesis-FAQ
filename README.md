@@ -18,3 +18,10 @@
    3. Disable OneDrive Sync on your Documents folder
 ## Baka Hold to Sprint Disabled Popup
    Update VC++ on the drive that you installed this modlist on. You can find the link to the latest version [here](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170). Just put the .exe anywhere in the same drive
+## Jetpack Mod Not Working
+   Open the **_Star Wars Genesis - Root Pack_** mod and delete these folders/files:<br />
+   - Hotkeys
+   - disable_hotkeys
+   - enable_hotkeys<br />
+   
+   Manually download [Extended Jetpack (Less Fuel Drain)](https://www.nexusmods.com/starfield/mods/3800?tab=files) and drag the files in the archive into steamapps/common/Starfield
