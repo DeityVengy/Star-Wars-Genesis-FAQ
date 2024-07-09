@@ -34,3 +34,4 @@
 2. Search for Starfield in the first tab, if its not there, add it.
 3. If Starfield is selected go to tab 2 and search for Vsync and deactivate it.
 4. Try to start the game again.
+5. If game still doesn't maximize, try turning off Steam Overlay
