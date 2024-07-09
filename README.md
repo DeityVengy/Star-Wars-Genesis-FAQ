@@ -19,13 +19,14 @@
 ## Baka Hold to Sprint Disabled Popup
    Update VC++ on the drive that you installed this modlist on. You can find the link to the latest version [here](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170). Just put the .exe anywhere in the same drive
 ## Jetpack Mod Not Working
+   First, make sure you don't have a controller plugged into your PC, which blocks the F1 hotkey from functioning. <br />
    Open the **_Star Wars Genesis - Root Pack_** mod and delete these folders/files:<br />
    - Hotkeys
    - disable_hotkeys
    - enable_hotkeys<br />
    
-   Manually download [Extended Jetpack (Less Fuel Drain)](https://www.nexusmods.com/starfield/mods/3800?tab=files) and drag the files in the archive into steamapps/common/Starfield
-   If this still isn't working, make sure you're not trying to press F1 while a controller is pluggin in. That can also cause this issue. <br />
+1. Manually download [Starfield Hotkeys](https://www.nexusmods.com/starfield/mods/1578?tab=files) and drag the files in the archive into steamapps/common/Starfield. <br />
+2. Manually download [Extended Jetpack (Less Fuel Drain)](https://www.nexusmods.com/starfield/mods/3800?tab=files) and drag the files in the archive into steamapps/common/Starfield. Now run the enable_hotkeys.ini file in your Starfield directory<br />
 ## Starfield is stuck minimized
 1. Open your Nvidia Controll Panel on the Desktop, go to 3d settings and then to Program Settings.
 2. Search for Starfield in the first tab, if its not there, add it.
