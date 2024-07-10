@@ -1,4 +1,6 @@
 # **F.A.Q.**
+## Wabbajack Installer Stuck on Downloading Last File
+   Just close the installer and restart it again, pointing to the exact same location as last time. Make sure "overwrite installation" is UNCHECKED. This will resume your download/install as normal. <br />
 ## Black Textures on Armor/Weapons/Faces <br />
    Download this bat file from [here](https://www.nexusmods.com/starfield/mods/6371?tab=files) and run it. Restart your PC to be safe.<br />
    If that doesn't work, delete your Data folder in steamapps/common/Starfield and repair the game via Steam<br />
