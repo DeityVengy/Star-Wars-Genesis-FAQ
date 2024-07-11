@@ -34,8 +34,21 @@
 1. Manually download [Starfield Hotkeys](https://www.nexusmods.com/starfield/mods/1578?tab=files) and drag the files in the archive into steamapps/common/Starfield. <br />
 2. Manually download [Extended Jetpack (Less Fuel Drain)](https://www.nexusmods.com/starfield/mods/3800?tab=files) and drag the files in the archive into steamapps/common/Starfield. Now run the enable_hotkeys.cmd file in your Starfield directory<br />
 ## Starfield is stuck minimized
+1. Open Task Manager. Under process, expand Starfield. Right click the Starfield subprocess and select maximize.<br />
+
+If that doesn't work:<br />
+   
 1. Open your Nvidia Controll Panel on the Desktop, go to 3d settings and then to Program Settings.
 2. Search for Starfield in the first tab, if its not there, add it.
 3. If Starfield is selected go to tab 2 and search for Vsync and deactivate it.
 4. Try to start the game again.
-5. If game still doesn't maximize, try turning off Steam Overlay
+5. If game still doesn't maximize, try turning off Steam Overlay<br />
+
+If that doesn't work:<br />
+   
+1. Go to C:\Users\USERNAME\Documents\My Games\Starfield\StarfieldPrefs.ini
+2. Input this under Display:<br />
+   [Display] <br />
+   bBorderless=0 <br />
+   iLocation Y=0 <br />
+   iLocation X=0 <br />
