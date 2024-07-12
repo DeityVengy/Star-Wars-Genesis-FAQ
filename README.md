@@ -9,7 +9,8 @@
 ## Planets/Dialogue not changed <br />
    Make sure your language for Starfield is set to English on Steam
 ## "Half the modlist isn't working" etc
-   Go look at the bottom of ur plugin order and see if there's any mods from Bethesda Creations down there. Disable them all and try again. Multiple people have had issues where certain Creations mods break the modlist.
+   1. Make sure you followed "IMPORTANT POST-STEP" in the guide, involving the ini file.
+   2. Go look at the bottom of ur plugin order and see if there's any mods from Bethesda Creations down there. Disable them all and try again. Multiple people have had issues where certain Creations mods break the modlist
 ## The game is crashing on startup/isn't launching <br />
    Delete starfield.exe in your steamapps folder and then verify your game files through Steam. 
 ## ModOrganizer.exe in the Star Wars Genesis folder is not opening<br />
