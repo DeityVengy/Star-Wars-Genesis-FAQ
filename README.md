@@ -53,6 +53,11 @@ If that doesn't work:<br />
    bBorderless=0 <br />
    iLocation Y=0 <br />
    iLocation X=0 <br />
-   
+## Low FPS When Opening Menus
+This could be a ton of issues. If you simply google it, you'll find dozens of possible solutions to it online. Here are the most successful ones:
+- Disable fullscreen optimizations for Starfield.exe
+- Turn off auto-save in-game
+- Turn off upscaling in-game
+
 ## HK-47 Just Punches People
    Trade with him and make him equip his weapon in his inventory.
