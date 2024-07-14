@@ -4,8 +4,8 @@
 ## Black Textures on Armor/Weapons/Faces <br />
    Download this bat file from [here](https://www.nexusmods.com/starfield/mods/6371?tab=files) and run it. Restart your PC to be safe.<br />
    If that doesn't work, delete your Data folder in steamapps/common/Starfield and repair the game via Steam<br />
-## Stuck on Main Menu after Launching New Game
-   This is almost always caused by having creation store mods leftover in your game. 
+## Stuck/Crash on Main Menu after Launching New Game
+   This is almost always caused by having additional mods in your game, including mods from creation store, nexus, or manually installed ones. YES THIS INCLUDES **_BAKA ACHIVEMENT ENABLER_**
 ## Planets/Dialogue not changed <br />
    Make sure your language for Starfield is set to English on Steam
 ## "Half the modlist isn't working" etc
