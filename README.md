@@ -24,6 +24,11 @@
    1. Check Documents\My Games\Starfield\Saves. If any of these folders don't exist, create them in that order.
    2. Under Virus and Threat Protection Settings (Windows Security), go to "Manage Controlled Folder Access" whitelist the Starfield folder in both Documents/My Games/Starfield and steamapps/common/starfield.
    3. Disable OneDrive Sync on your Documents folder
+## Mod Organizer Failed to Load the Plugin xxx
+   1. Make sure you have installed the latest version of [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+   2. Start Powershell
+   3. CD your install location. Example would be: _cd "C:\Star Wars Genesis"_
+   4. Run this command: _dir -Recurse | Unblock-File_
 ## Baka Hold to Sprint Disabled Popup
    Update VC++ on the drive that you installed this modlist on. You can find the link to the latest version [here](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170). Just put the .exe anywhere in the same drive
 ## Jetpack Mod Not Working
