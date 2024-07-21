@@ -44,6 +44,8 @@ If that doesn't work:<br />
 ## Black Textures on Armor/Weapons/Faces <br />
    Download this bat file from [here](https://www.nexusmods.com/starfield/mods/6371?tab=files) and run it. Restart your PC to be safe.<br />
    If that doesn't work, delete your Data folder in steamapps/common/Starfield and repair the game via Steam<br />
+## Ship Missing in Alternate Start
+   Just talk to the technician and briefly enter the build menu and it should spawn.
 ## Failed to save game<br />
    1. Check Documents\My Games\Starfield\Saves. If any of these folders don't exist, create them in that order.
    2. Under Virus and Threat Protection Settings (Windows Security), go to "Manage Controlled Folder Access" whitelist the Starfield folder in both Documents/My Games/Starfield and steamapps/common/starfield.
