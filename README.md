@@ -1,5 +1,3 @@
-# **F.A.Q.**
-
 # Wabbajack Issues
 ## Stuck on Downloading Last File or "Unable to download x file"
    Just close the installer and restart it again, pointing to the exact same location as last time. Make sure "overwrite installation" is UNCHECKED. This will resume your download/install as normal. <br />
