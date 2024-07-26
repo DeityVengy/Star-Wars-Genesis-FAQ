@@ -17,7 +17,7 @@
 <br /><br /><br />   
 # Launch Issues
 ## Game Crashing on Startup or not Loading at All <br />
-   Delete starfield.exe in your steamapps folder and then verify your game files through Steam. 
+   Delete starfield.exe in your steamapps/common/Starfield folder and then verify your game files through Steam. 
 ## Stuck/Crash on Main Menu after Launching New Game
    This is almost always caused by having additional mods in your game, including mods from creation store, nexus, or manually installed ones. YES THIS INCLUDES **_BAKA ACHIEVEMENT ENABLER_** <br />
    If you can't figure it out, just delete the Data folder in steamapps/common/Starfield and repair your game through Steam
