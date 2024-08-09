@@ -62,6 +62,9 @@ This could be a ton of issues. If you simply google it, you'll find dozens of po
 - Disable fullscreen optimizations for Starfield.exe
 - Turn off auto-save in-game
 - Turn off upscaling in-game
+# Low FPS on Good PC
+- Delete Starfield.exe from game directory and verify files through Steam
+- Double check if you have low FPS on Vanilla Starfield or not
 ## Jetpack Mod Not Working
    First, make sure you don't have a controller plugged into your PC, which blocks the F1 hotkey from functioning. <br />
    Open the **_Star Wars Genesis - Root Pack_** mod and delete these folders/files:<br />
