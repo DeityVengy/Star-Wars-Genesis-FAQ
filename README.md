@@ -65,6 +65,10 @@ This could be a ton of issues. If you simply google it, you'll find dozens of po
 # Low FPS on Good PC
 - Delete Starfield.exe from game directory and verify files through Steam
 - Double check if you have low FPS on Vanilla Starfield or not
+# Can't Fast Travel
+1. Open the Console and type ‘DumpInputEnableLayers’ then hit Enter.
+2. You should see a list of three or four numbered Layers, find the Layer that has Fast Travel listed.
+3. Type ‘ResetInputEnableLayer NUMBER’ with the number of the layer where it says NUMBER, then hit Enter.
 ## Jetpack Mod Not Working
    First, make sure you don't have a controller plugged into your PC, which blocks the F1 hotkey from functioning. <br />
    Open the **_Star Wars Genesis - Root Pack_** mod and delete these folders/files:<br />
