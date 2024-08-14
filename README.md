@@ -2,8 +2,7 @@
 ## Stuck on Downloading Last File or "Unable to download x file"
   - Just close the installer and restart it again, pointing to the exact same location as last time. Make sure "overwrite installation" is UNCHECKED. This will resume your download/install as normal. <br />
   - If the above doesn't work, then go into your downloads folder and delete everything inside there. Then, close Wabbajack if it's open and press Windows + R on your keyboard. Type in %localappdata%. You should see a Windows Explorer window pop up. Find and delete the folder called Wabbajack inside.
-  - Now close and open Wabbajack around 3-5 times and try again to download the modlist
-   
+  - Now close and open Wabbajack around 3-5 times and try again to download the modlist   
 <br /><br /><br />
 # Mod Organizer 2 Issues
 ## ModOrganizer.exe in the Star Wars Genesis folder is not opening<br />
