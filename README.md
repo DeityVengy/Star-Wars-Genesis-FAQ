@@ -15,7 +15,7 @@
    3. CD your install location. Example would be: _cd "C:\Star Wars Genesis"_
    4. Run this command: _dir -Recurse | Unblock-File_
 ## Baka Hold to Sprint Disabled Popup
-   Update VC++ on the drive that you installed this modlist on. You can find the link to the latest version [here](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170). Just put the .exe anywhere in the same drive
+   Update VC++ on the drive that you installed this modlist on. You can find the link to the latest version [here](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170). Just put the .exe for the x64 version anywhere in the same drive that the modlist is on
 <br /><br /><br />   
 # Launch Issues
 ## Game Crashing on Startup or not Loading at All <br />
