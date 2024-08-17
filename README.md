@@ -68,13 +68,12 @@ Install this in the same drive that you have the modlist and game: https://aka.m
    This happens when you mod existing saves. There are 2 possible solutions. First, save your game. Then open the console, click them (make sure it says NPC), and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear. Then open console and without clicking anything, do "enable". IF that still doesn't work, then please kindly report it as a bug in my [Discord](https://discord.gg/sqKTwGRwwY)
 ## The Game is Too Hard
    Check out the optional difficulty section in the install guide. <br />
-## Low FPS When Opening Menus
+## Low FPS During or AFTER Opening Menus
 This could be a ton of issues. If you simply google it, you'll find dozens of possible solutions to it online. Here are the most successful ones:
 - Disable fullscreen optimizations for Starfield.exe
 - Turn off auto-save in-game
 - Turn off upscaling in-game
-# Low FPS on Good PC
-- Delete Starfield.exe from game directory and verify files through Steam
+- **Delete Starfield.exe from game directory and verify files through Steam**
 - Double check if you have low FPS on Vanilla Starfield or not
 # Long Loading Times
 - Make sure both the modlist and game is installed on SSD
