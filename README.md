@@ -9,8 +9,6 @@
 - This is an old fashioned corrupted file error. You must delete the downloads folder and create a new one, then reinstall.
 <br /><br /><br />
 # Mod Organizer 2 Issues
-## ModOrganizer.exe in the Star Wars Genesis folder is not opening<br />
-   Download [Mod Organizer 2.5.2dev4](https://onedrive.live.com/?authkey=!ACOOWjZT3MUR068&id=371272C49A37CC4A!151853&cid=371272C49A37CC4A&parId=root&parQt=sharedby&o=OneUp) and drag all it's contents into the Star Wars Genesis folder and replace all files
 ## ModOrganizer.exe is missing<br />
    Under Virus and Threat Protection Settings (Windows Security), go to "Manage Controlled Folder Access" whitelist the Starfield folder in both Documents/My Games/Starfield and steamapps/common/starfield.
 ## Mod Organizer Failed to Load the Plugin XXX
