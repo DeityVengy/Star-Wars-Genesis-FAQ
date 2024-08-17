@@ -59,6 +59,7 @@ If that doesn't work:<br />
 ## Half of the Mods Aren't Working
    1. Make sure you followed "IMPORTANT POST-STEP" in the guide, involving the ini file.
    2. Go look at the bottom of ur plugin order and see if there's any mods from Bethesda Creations down there. Disable them all and try again. Multiple people have had issues where certain Creations mods break the modlist
+   3. If you've used Vortex before, delete all the mods in it's folders.
 ## Certain NPC's are missing their heads/hands/weapons <br />
    This happens when you mod existing saves. There are 2 possible solutions. First, save your game. Then open the console, click them (make sure it says NPC), and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear. Then open console and without clicking anything, do "enable". IF that still doesn't work, then please kindly report it as a bug in my [Discord](https://discord.gg/sqKTwGRwwY)
 ## The Game is Too Hard
