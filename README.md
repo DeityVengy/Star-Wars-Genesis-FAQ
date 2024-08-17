@@ -18,6 +18,9 @@
    4. Run this command: _dir -Recurse | Unblock-File_
 ## Baka Hold to Sprint Disabled Popup
    Update VC++ on the drive that you installed this modlist on. You can find the link to the latest version [here](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170). Just put the .exe for the x64 version anywhere in the same drive that the modlist is on
+## How to reset the plugin order after it got jumbled up?
+   At the top of your plugins tab, there's a button you can press to load a backup of the vanilla V5 plugin order.
+   
 <br /><br /><br />   
 # Launch Issues
 ## Game Crashing on Startup or not Loading at All <br />
@@ -70,6 +73,9 @@ This could be a ton of issues. If you simply google it, you'll find dozens of po
 # Low FPS on Good PC
 - Delete Starfield.exe from game directory and verify files through Steam
 - Double check if you have low FPS on Vanilla Starfield or not
+# Long Loading Times
+- Make sure both the modlist and game is installed on SSD
+- Make sure you're not using an external SSD for god's sake
 # Can't Fast Travel
 1. Open the Console and type ‘DumpInputEnableLayers’ then hit Enter.
 2. You should see a list of three or four numbered Layers, find the Layer that has Fast Travel listed.
