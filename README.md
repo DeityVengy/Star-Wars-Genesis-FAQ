@@ -11,7 +11,7 @@
 # Mod Organizer 2 Issues
 ## ModOrganizer.exe is missing<br />
    Under Virus and Threat Protection Settings (Windows Security), go to "Manage Controlled Folder Access" whitelist the Starfield folder in both Documents/My Games/Starfield and steamapps/common/starfield.
-## Mod Organizer Failed to Load the Plugin XXX
+## Mod Organizer Failed to Load the Plugin or is Failing to Launch
    1. Make sure you have installed the latest version of [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
    2. Start Powershell
    3. CD your install location. Example would be: _cd "C:\Star Wars Genesis"_
