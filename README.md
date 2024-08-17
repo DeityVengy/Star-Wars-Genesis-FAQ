@@ -43,6 +43,9 @@ If that doesn't work:<br />
    bBorderless=0 <br />
    iLocation Y=0 <br />
    iLocation X=0 <br />
+## RealTimeFormPatcher Error or Unsupport Address Library Format
+Install this in the same drive that you have the modlist and game: https://aka.ms/vs/17/release/vc_redist.x64.exe
+
 
 <br /><br /><br />
 # Ingame Issues
