@@ -7,6 +7,8 @@
   - Now close and open Wabbajack around 3-5 times and try again to download the modlist
 ## Unable to hash AAAAA something
 - This is an old fashioned corrupted file error. You must delete the downloads folder and create a new one, then reinstall.
+## Access Denied Error
+- This is usually caused by some sort of Anti-Virus software. I recommend disabling it while you install or adding the Star Wars Genesis folders to the whitelist. Known antiviruses that cause this issue include AVG, Avast, BitDefender, Webroot, Kaspersky, Norton, McAfee, etc.
 <br /><br /><br />
 # Mod Organizer 2 Issues
 ## ModOrganizer.exe is missing<br />
