@@ -52,6 +52,8 @@ Install this in the same drive that you have the modlist and game: https://aka.m
 ## Black Textures on Armor/Weapons/Faces <br />
    Download this bat file from [here](https://www.nexusmods.com/starfield/mods/6371?tab=files) and run it. Restart your PC to be safe.<br />
    If that doesn't work, delete your Data folder in steamapps/common/Starfield and repair the game via Steam<br />
+   If that still doesn't work, then try this:<br /> ![image](https://github.com/user-attachments/assets/e88e4bc5-34c3-4b38-8469-3a8ae2c2e6f5)
+
 ## Ship Missing in Alternate Start
    Just talk to the technician and briefly enter the build menu and it should spawn.
 ## Failed to save game<br />
