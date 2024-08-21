@@ -83,7 +83,7 @@ Just talk to the technician and briefly enter the build menu and it should spawn
 This happens when you mod existing saves. There are 2 possible solutions. First, save your game. Then open the console, click them (make sure it says NPC), and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear. Then open console and without clicking anything, do "enable". IF that still doesn't work, then please kindly report it as a bug in my [Discord](https://discord.gg/sqKTwGRwwY)
 ### The Game is Too Hard
 Check out the optional difficulty section in the install guide. <br />
-### Low FPS During or AFTER Opening Menus
+### Low FPS on Good PC
 This could be a ton of issues. If you simply google it, you'll find dozens of possible solutions to it online. Here are the most successful ones:
 - Disable fullscreen optimizations for Starfield.exe
 - Turn off auto-save in-game
