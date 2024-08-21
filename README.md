@@ -114,10 +114,11 @@ This could be a ton of issues. If you simply google it, you'll find dozens of po
 Make sure both the modlist and game is installed on SSD
 Make sure you're not using an external SSD for god's sake
 ##
-## Crashing
+### Crashing
 There is only two reasons why Star Wars Genesis should crash.
 1. You added extra mods without knowing what you're doing.
 2. Your plugin got reset. This can be fixed by clicking the yellow arrow at the top of the Mod Organizer 2 plugins tab and selecting the backup option.
+##
 ### Can't Fast Travel
 1. Open the Console and type ‘DumpInputEnableLayers’ then hit Enter.
 2. You should see a list of three or four numbered Layers, find the Layer that has Fast Travel listed.
