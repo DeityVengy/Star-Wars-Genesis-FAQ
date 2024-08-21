@@ -96,4 +96,4 @@ This could be a ton of issues. If you simply google it, you'll find dozens of po
 2. Manually download [Starfield Hotkeys](https://www.nexusmods.com/starfield/mods/1578?tab=files) and drag the files in the archive into steamapps/common/Starfield. <br />
 3. Manually download [Extended Jetpack (Less Fuel Drain)](https://www.nexusmods.com/starfield/mods/3800?tab=files) and drag the files in the archive into steamapps/common/Starfield. Now run the enable_hotkeys.cmd file in your Starfield directory<br />
 ## HK-47 Just Punches People
-   Trade with him and make him equip his weapon in his inventory.
+   - Trade with him and make him equip his weapon in his inventory.
