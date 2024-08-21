@@ -83,12 +83,12 @@ Install this in the same drive that you have the modlist and game: https://aka.m
 ### Ship Missing in Alternate Start
 Just talk to the technician and briefly enter the build menu and it should spawn.
 ##
-### Failed to save game<br />
+### Failed to Save Game<br />
    1. Check Documents\My Games\Starfield\Saves. If any of these folders don't exist, create them in that order.
    2. Under Virus and Threat Protection Settings (Windows Security), go to "Manage Controlled Folder Access" whitelist the Starfield folder in both Documents/My Games/Starfield and steamapps/common/starfield.
    3. Disable OneDrive Sync on your Documents folder
 ##
-### Planets/Dialogue not changed <br />
+### Planets/Dialogue Not Changed <br />
    Make sure your language for Starfield is set to English on Steam
 ##
 ### Half of the Mods Aren't Working
