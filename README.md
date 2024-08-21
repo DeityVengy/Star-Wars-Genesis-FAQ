@@ -46,10 +46,12 @@ At the top of your plugins tab, there's a button you can press to load a backup 
 #   
 ![FAQ General Questions (7)](https://github.com/user-attachments/assets/ece3c367-c40a-4bc6-b89a-f83c6a1f30b0)
 ### Game Crashing on Startup or not Loading at All <br />
-Delete starfield.exe in your steamapps/common/Starfield folder and then verify your game files through Steam. 
+- Delete starfield.exe in your steamapps/common/Starfield folder and then verify your game files through Steam.
+- Load my backup of the plugin order by clicking the yellow arrow button in Mod Organizer 2 and selecting the only option
 ##
 ### Stuck/Crash on Main Menu after Launching New Game
-This is almost always caused by having additional mods in your game, including mods from creation store, nexus, or manually installed ones. YES THIS INCLUDES **_BAKA ACHIEVEMENT ENABLER_** <br />
+This is almost always caused by having additional mods in your game, including mods from creation store, nexus, or manually installed ones. YES THIS INCLUDES **_BAKA ACHIEVEMENT ENABLER_**
+<br /><br />
 If you can't figure it out, just delete the Data folder in steamapps/common/Starfield and repair your game through Steam
 ##
 ### Starfield is Stuck Minimized
@@ -112,6 +114,10 @@ This could be a ton of issues. If you simply google it, you'll find dozens of po
 Make sure both the modlist and game is installed on SSD
 Make sure you're not using an external SSD for god's sake
 ##
+## Crashing
+There is only two reasons why Star Wars Genesis should crash.
+1. You added extra mods without knowing what you're doing.
+2. Your plugin got reset. This can be fixed by clicking the yellow arrow at the top of the Mod Organizer 2 plugins tab and selecting the backup option.
 ### Can't Fast Travel
 1. Open the Console and type ‘DumpInputEnableLayers’ then hit Enter.
 2. You should see a list of three or four numbered Layers, find the Layer that has Fast Travel listed.
