@@ -19,6 +19,7 @@ Relog on Nexus in the Wabbajack app. If you got IP banned, just wait 10 minutes 
   - Just close the installer and restart it again, pointing to the exact same location as last time. Make sure "overwrite installation" is UNCHECKED. This will resume your download/install as normal. <br />
   - If the above doesn't work, then go into your downloads folder and delete everything inside there. Then, close Wabbajack if it's open and press Windows + R on your keyboard. Type in %localappdata%. You should see a Windows Explorer window pop up. Find and delete the folder called Wabbajack inside.
   - Now close and open Wabbajack around 3-5 times and try again to download the modlist
+  - If you continue having issues, please uninstall Wabbajack and reinstall it
 ##
 ### Unable to hash AAAAA something
 This is an old fashioned corrupted file error. You must delete the downloads folder and create a new one, then reinstall.
